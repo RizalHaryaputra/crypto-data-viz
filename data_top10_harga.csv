@@ -1,0 +1,11 @@
+id,symbol,name,current_price,market_cap,price_change_percentage_24h
+bedrock-btc,brbtc,Bedrock BTC,116166.0,49433141,0.0
+solv-protocol-solvbtc-jupiter,solvbtc.jup,Solv Protocol SolvBTC Jupiter,109050.0,59103740,4.08564
+lorenzo-wrapped-bitcoin,enzobtc,Lorenzo Wrapped Bitcoin,106722.0,220597283,
+lombard-staked-btc,lbtc,Lombard Staked BTC,103694.0,1232354756,2.15686
+avalanche-old-bridged-wbtc-avalanche,wbtc.e,Avalanche Bridged WBTC (Avalanche),103297.0,38374618,1.78352
+polygon-bridged-wbtc-polygon-pos,wbtc,Polygon Bridged WBTC (Polygon POS),103264.0,259405914,1.56352
+mezo-wrapped-btc,btc,Mezo Wrapped BTC,103250.0,54153542,2.06059
+coinbase-wrapped-btc,cbbtc,Coinbase Wrapped BTC,103182.0,7557627399,1.6125
+wrapped-bitcoin,wbtc,Wrapped Bitcoin,103140.0,13089964100,1.69408
+vaultbridge-bridged-wbtc-katana,vbwbtc,VaultBridge Bridged WBTC (Katana),103134.0,93979815,1.84095
